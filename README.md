@@ -5,7 +5,7 @@ This project is a server-client simulation of a food pick-up service, implemente
 
 ## 🛠️ Additional Infrastructure
 - **💻 Virtual Machines**: Each host and server runs on a dedicated virtual machine to simulate a real-world network environment.
-- **🌐 GNS3 Network Topology**: The project also includes a GNS3 topology featuring routers and switches configured to run OSPF (Open Shortest Path First) and PIM-SM (Protocol Independent Multicast - Sparse Mode), providing a robust network infrastructure for the simulation.
+- **🌐 GNS3 Network Topology**: The project also includes a GNS3 topology featuring routers and switches configured to run OSPF (Open Shortest Path First) and PIM-SM (Protocol Independent Multicast - Sparse Mode).
 
 ## ✨ Features
 - **🧵 Multi-threaded Server**: The server handles multiple clients and restaurant connections simultaneously.
