@@ -1,7 +1,7 @@
 # 🍽️ Food Pick-Up Service Simulation
 
 ## 📝 Overview
-This project is a server-client simulation of a food pick-up service, implemented in C using socket programming. The system allows a client to place orders from a server, which is connected to multiple restaurants (McDonald's, Taco Bell, and Domino's). The server manages communication between the client and the restaurants, ensuring that orders are handled efficiently in a multi-threaded environment.
+This project is a server-client simulation of a food pick-up service, implemented in C using socket programming. The system allows a client to place orders from a server, which is connected to multiple restaurants. The server manages communication between the client and the restaurants, ensuring that orders are handled efficiently in a multi-threaded environment.
 
 ## 🛠️ Additional Infrastructure
 - **💻 Virtual Machines**: Each host and server runs on a dedicated virtual machine to simulate a real-world network environment.
